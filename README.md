@@ -31,7 +31,7 @@
 ### 🔗 Me Encontre:
 <p align="center">
   <a href="seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
-  <a href="mailto:seu-email"><img src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+  <a href="mailto:silastrabalho07@gmail.com"><img src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
 </p>
 
 ---
